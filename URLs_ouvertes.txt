@@ -1,6 +1,0 @@
-https://prodroc.groupevictorhugo.com/webservice-interamc-roc
-https://api.be-ys.com/roc-gene/prd/v1/services/sim
-https://amc.ws.almerys.com/ws-roc-droitamc-proxy-1-0/services/clc
-https://amc.ws.almerys.com/ws-roc-droitamc-proxy-1-0/services/del
-https://interamc-api.be-ys.com/roc-gene/prd/v1/services/clc
-https://ws-roc.generation.fr/services/DelService.svc
