@@ -1,10 +1,12 @@
-https://sel.mutuelleratp.fr/sel/roc/
+https://recepteuridbclc.services-fm.net/wa-fsiq/services/WSRocGenV2Secured
+https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/IdbRoc
 https://recepteuridbclc-test.services-fm.net/wa-fsiq-int/services/WSRocGenSecured
 https://amcmed.ws.almerys.com/ws-clc-droitamc-proxy-1-0/services/clc
 https://roc.carteblanchepartenaires.fr/v1/roc
-https://roc.mutuelle-servicesplus.fr/ROC_idbService/ServiceSIM.asmx
 https://tpg.viamedis.net/tpgvm/ws/CLC
 https://tpg.viamedis.net/tpgvm/ws/IDB
+https://roc.mutuelle-servicesplus.fr/ROC_idbService/ServiceSIM.asmx
+https://sel.mutuelleratp.fr/sel/roc/
 https://prodroc.groupevictorhugo.com/webservice-interamc-roc/
 https://api.be-ys.com/roc-gene/prd/v1/services/sim
 https://amc.ws.almerys.com/ws-roc-droitamc-proxy-1-0/services/clc
@@ -44,7 +46,6 @@ https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/ClcRoc2
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/DelRoc
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/DelRoc1
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/DelRoc2
-https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/IdbRoc
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/IdbRoc1
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/IdbRoc2
 https://sel.korelio.com/InterAmcSel/AMCServiceamcsantews/SimRoc
